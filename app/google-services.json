@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197173205544",
+    "firebase_url": "https://authenticationrdtb.firebaseio.com",
+    "project_id": "authenticationrdtb",
+    "storage_bucket": "authenticationrdtb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197173205544:android:3c1071e24ce93e46",
+        "android_client_info": {
+          "package_name": "com.example.saiby.authenticationrdtb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197173205544-c2ccptborrqejocuods07nd6o5rbqstu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saiby.authenticationrdtb",
+            "certificate_hash": "74fab74b854769385452c4d0467380fe04ac2677"
+          }
+        },
+        {
+          "client_id": "197173205544-g0621lhbfpoholoel3epncicfjjgbsjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3DEzJaeQlBgY7eMjgQ8984hnK6h1RWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197173205544-g0621lhbfpoholoel3epncicfjjgbsjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

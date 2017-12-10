@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AuthenticationRDTB</string>
+    <string name="enter_message_here">Enter Message Here</string>
+    <string name="enter_username_here">Enter Name Here</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="sign_out">Sing Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="title_text">Title Text</string>
+    <string name="Logout">Logout</string>
+</resources>
